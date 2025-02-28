@@ -1,0 +1,45 @@
+# Environment variables
+.env
+
+# Virtual Environment
+venv/
+env/
+ENV/
+ven/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Streamlit
+.streamlit/
+
+# Scraped data and generated PDFs
+data/
+*.pdf
+*_website_content/
+inciem_website_content/
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+temp_upload_*
+*.temp
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+Thumbs.db

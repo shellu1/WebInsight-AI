@@ -1,0 +1,15 @@
+# Core dependencies for RAG chatbot
+requests==2.31.0
+streamlit==1.32.0
+python-dotenv==1.0.1
+faiss-cpu==1.7.4
+numpy==1.24.3
+pypdf==4.0.1
+
+# Web scraping dependencies (for scrap.py)
+beautifulsoup4==4.12.3
+urllib3==2.1.0
+reportlab==4.1.0
+pillow==10.2.0
+pandas==2.2.0
+aiohttp==3.9.3
