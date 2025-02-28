@@ -29,6 +29,7 @@ OPENAI_API_KEY=your_api_key_here
 Step 1: Scrape Website Content
 python scrap.py
 This will generate a PDF with the website content.
+
 Step 2: Run the RAG Chatbot
 streamlit run simple_rag.py
 Upload the generated PDF and start asking questions about the website content.
@@ -41,7 +42,11 @@ Upload the generated PDF and start asking questions about the website content.
 6.	Response Generation: The system uses OpenAI's models to generate a coherent, accurate response based on the retrieved information.
 # Future Improvements
 •	Multi-document support
+
 •	Improved chunking strategies
+
 •	PDF highlighting for source references
+
 •	Multilingual support
+
 •	Local embedding model options
