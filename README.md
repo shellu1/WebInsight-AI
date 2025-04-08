@@ -1,4 +1,4 @@
-# WebInsight AI
+# SiteWhiz
 A Retrieval Augmented Generation (RAG) chatbot that answers questions about website content using PDFs generated from web scraping.
 # Overview
 This project uses advanced AI techniques to create an intelligent assistant that can answer questions about website content. The system first scrapes website data to create a PDF, then uses that PDF as a knowledge base for an AI-powered question-answering system.
