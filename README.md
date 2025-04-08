@@ -41,12 +41,6 @@ Upload the generated PDF and start asking questions about the website content.
 5.	Similarity Search: When a question is asked, the system finds the most relevant chunks using vector similarity.
 6.	Response Generation: The system uses OpenAI's models to generate a coherent, accurate response based on the retrieved information.
 # Future Improvements
-•	Multi-document support
-
 •	Improved chunking strategies
-
 •	PDF highlighting for source references
-
-•	Multilingual support
-
 •	Local embedding model options
