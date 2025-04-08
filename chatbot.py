@@ -230,12 +230,12 @@ def save_uploaded_file(uploaded_file):
 
 def main():
     st.set_page_config(
-        page_title="WebInsight AI",
+        page_title="SiteWhiz",
         page_icon="🌐",
         layout="wide"
     )
     
-    st.title("WebInsight AI")
+    st.title("SiteWhiz")
     st.subheader("Powered by RAG and OpenAI")
     
     # Session state initialization
